@@ -27,3 +27,10 @@ else:
 
 #not operator
 print("a" not in sztring)
+
+varos = "Körmend"
+print(varos.find("ö")+1)
+print("-"*50)
+
+mondat = "Én már kezdem érteni az adott tananyagot!"
+print(mondat.split())
